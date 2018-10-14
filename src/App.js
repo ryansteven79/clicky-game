@@ -74,7 +74,7 @@ class App extends Component {
       <div className="App">
         <nav className="navbar navbar-light bg-primary fixed-top margin-bottom">
           <h1><span className="badge badge-success">Score: {this.state.currentScore}</span></h1>
-          <h1>Clickity Click Click</h1>
+          <h1>The Memory Game</h1>
           <h1><span className="badge badge-danger">High Score: {this.state.highScore}</span></h1>
         </nav>
         <div className="margin-bottom"></div>
